@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/rAltmetric/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rAltmetric/reference/altmetric_data.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rAltmetric/reference/altmetrics.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rAltmetric/reference/print.altmetric.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rAltmetric/articles/intro-to-altmetric.html</loc>
+  </url>
+</urlset>
